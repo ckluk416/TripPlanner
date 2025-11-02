@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/6329021646629104954:jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1163670490218:jetbrains.mps.baseLanguage.structure.SwitchStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1164991038168:jetbrains.mps.baseLanguage.structure.ThrowStatement" />
+  <root>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="14,0,32,0" name="Cimindi.behavior.BehaviorAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:531ca3e3-73da-4134-be88-466402d93d9b(Cimindi.behavior)/75367278884458380">
+    <file name="Trip__BehaviorDescriptor.java">
+      <node id="75367278884458380" at="27,0,28,0" concept="8" trace="CONCEPT" />
+      <node id="75367278884458380" at="29,0,30,0" concept="8" trace="getDurationInDays_id4bKygdA8Yw" />
+      <node id="75367278884458380" at="31,0,32,0" concept="8" trace="BH_METHODS" />
+      <node id="75367278884458486" at="36,86,37,53" concept="6" />
+      <node id="75367278884458564" at="37,53,38,174" concept="4" />
+      <node id="75367278884464624" at="38,174,39,170" concept="4" />
+      <node id="75367278884471638" at="39,170,40,0" concept="7" />
+      <node id="75367278884471707" at="40,0,41,57" concept="6" />
+      <node id="75367278884476556" at="42,55,43,15" concept="5" />
+      <node id="75367278884477595" at="44,5,45,0" concept="7" />
+      <node id="75367278884477817" at="45,0,46,49" concept="6" />
+      <node id="75367278884484938" at="46,49,47,236" concept="4" />
+      <node id="75367278884497131" at="47,236,48,228" concept="4" />
+      <node id="75367278884515931" at="48,228,49,0" concept="7" />
+      <node id="75367278884516449" at="49,0,50,26" concept="6" />
+      <node id="75367278884517717" at="50,26,51,64" concept="4" />
+      <node id="75367278884529391" at="51,64,52,0" concept="7" />
+      <node id="75367278884530083" at="52,0,53,79" concept="6" />
+      <node id="75367278884532472" at="53,79,54,32" concept="5" />
+      <node id="75367278884458380" at="61,114,62,21" concept="1" />
+      <node id="75367278884458380" at="66,114,67,49" concept="4" />
+      <node id="75367278884458380" at="68,26,69,56" concept="11" />
+      <node id="75367278884458380" at="72,13,73,68" concept="5" />
+      <node id="75367278884458380" at="74,14,75,58" concept="11" />
+      <node id="75367278884458380" at="80,128,81,49" concept="4" />
+      <node id="75367278884458380" at="82,26,83,56" concept="11" />
+      <node id="75367278884458380" at="86,14,87,58" concept="11" />
+      <node id="75367278884458380" at="93,48,94,22" concept="5" />
+      <node id="75367278884458380" at="99,40,100,19" concept="5" />
+      <node id="75367278884458380" at="104,0,105,0" concept="8" trace="detail$mfP3" />
+      <node id="75367278884458380" at="105,0,106,0" concept="8" trace="start$2Iw4" />
+      <node id="75367278884458380" at="106,0,107,0" concept="8" trace="date$2I30" />
+      <node id="75367278884458380" at="107,0,108,0" concept="8" trace="end$2IJ5" />
+      <node id="75367278884458380" at="108,0,109,0" concept="8" trace="date$2Ita" />
+      <node id="75367278884458380" at="112,0,113,0" concept="8" trace="tahun$2vsD" />
+      <node id="75367278884458380" at="113,0,114,0" concept="8" trace="bulan$2vFE" />
+      <node id="75367278884458380" at="114,0,115,0" concept="8" trace="tanggal$2vUF" />
+      <node id="75367278884458380" at="33,0,35,0" concept="9" trace="___init___#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="75367278884458380" at="57,0,59,0" concept="0" trace="Trip__BehaviorDescriptor#()V" />
+      <node id="75367278884472415" at="41,57,44,5" concept="2" />
+      <node id="75367278884458380" at="67,49,70,5" concept="2" />
+      <node id="75367278884458380" at="81,49,84,5" concept="2" />
+      <node id="75367278884458380" at="60,0,64,0" concept="3" trace="initNode#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SConstructor;[Ljava/lang/Object;)V" />
+      <node id="75367278884458380" at="84,5,88,5" concept="10" />
+      <node id="75367278884458380" at="91,0,96,0" concept="3" trace="getDeclaredMethods#()Ljava/util/List;" />
+      <node id="75367278884458380" at="97,0,102,0" concept="3" trace="getConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="75367278884458380" at="70,5,76,5" concept="10" />
+      <node id="75367278884458380" at="79,0,90,0" concept="3" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/language/SAbstractConcept;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <node id="75367278884458380" at="65,0,78,0" concept="3" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <node id="75367278884458380" at="36,0,56,0" concept="9" trace="getDurationInDays_id4bKygdA8Yw#(Lorg/jetbrains/mps/openapi/model/SNode;)I" />
+      <scope id="75367278884458380" at="33,63,33,63" />
+      <scope id="75367278884458380" at="57,42,57,42" />
+      <scope id="75367278884472417" at="42,55,43,15" />
+      <scope id="75367278884458380" at="61,114,62,21" />
+      <scope id="75367278884458380" at="68,26,69,56" />
+      <scope id="75367278884458380" at="72,13,73,68" />
+      <scope id="75367278884458380" at="74,14,75,58" />
+      <scope id="75367278884458380" at="82,26,83,56" />
+      <scope id="75367278884458380" at="86,14,87,58" />
+      <scope id="75367278884458380" at="93,48,94,22" />
+      <scope id="75367278884458380" at="99,40,100,19" />
+      <scope id="75367278884458380" at="33,0,35,0">
+        <var name="__thisNode__" id="75367278884458380" />
+      </scope>
+      <scope id="75367278884458380" at="57,0,59,0" />
+      <scope id="75367278884458380" at="60,0,64,0">
+        <var name="constructor" id="75367278884458380" />
+        <var name="node" id="75367278884458380" />
+        <var name="parameters" id="75367278884458380" />
+      </scope>
+      <scope id="75367278884458380" at="91,0,96,0" />
+      <scope id="75367278884458380" at="97,0,102,0" />
+      <scope id="75367278884458380" at="80,128,88,5">
+        <var name="methodIndex" id="75367278884458380" />
+      </scope>
+      <scope id="75367278884458380" at="66,114,76,5">
+        <var name="methodIndex" id="75367278884458380" />
+      </scope>
+      <scope id="75367278884458380" at="79,0,90,0">
+        <var name="concept" id="75367278884458380" />
+        <var name="method" id="75367278884458380" />
+        <var name="parameters" id="75367278884458380" />
+      </scope>
+      <scope id="75367278884458380" at="65,0,78,0">
+        <var name="method" id="75367278884458380" />
+        <var name="node" id="75367278884458380" />
+        <var name="parameters" id="75367278884458380" />
+      </scope>
+      <scope id="75367278884458403" at="36,86,54,32">
+        <var name="duration" id="75367278884517720" />
+        <var name="endDate" id="75367278884497132" />
+        <var name="endDateNode" id="75367278884464627" />
+        <var name="startDate" id="75367278884484939" />
+        <var name="startDateNode" id="75367278884458567" />
+      </scope>
+      <scope id="75367278884458380" at="36,0,56,0">
+        <var name="__thisNode__" id="75367278884458380" />
+      </scope>
+      <unit id="75367278884458380" at="111,0,116,0" name="Cimindi.behavior.Trip__BehaviorDescriptor$PROPS" />
+      <unit id="75367278884458380" at="103,0,110,0" name="Cimindi.behavior.Trip__BehaviorDescriptor$LINKS" />
+      <unit id="75367278884458380" at="26,0,117,0" name="Cimindi.behavior.Trip__BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+
