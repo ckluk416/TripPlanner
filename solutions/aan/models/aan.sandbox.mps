@@ -55,55 +55,55 @@
       </concept>
     </language>
   </registry>
-  <node concept="boK5O" id="5CPiTThmf2Y">
-    <property role="TrG5h" value="cimahi" />
-    <node concept="boK5E" id="5CPiTThmf2Z" role="boK1M">
-      <node concept="boK5N" id="4bKygdA8Y1" role="boK5F">
-        <property role="TrG5h" value="cikadut" />
-        <node concept="boK3o" id="4bKygdA8Y2" role="boK3r">
-          <node concept="boK5L" id="4bKygdA8Y8" role="boK3m">
-            <property role="boK3X" value="kegiatan 1" />
-            <node concept="boK3U" id="4bKygdA8Y9" role="boK0i">
-              <node concept="boK3V" id="4bKygdA8Ya" role="boK3B">
+  <node concept="boK5O" id="22o4WaGDoI">
+    <property role="TrG5h" value="stay_cation" />
+    <node concept="boK5E" id="22o4WaGDoJ" role="boK1M">
+      <node concept="boK5N" id="22o4WaGDoK" role="boK5F">
+        <property role="TrG5h" value="bandung" />
+        <node concept="boK3o" id="22o4WaGDoL" role="boK3r">
+          <node concept="boK5J" id="22o4WaGDoM" role="boK3p">
+            <property role="boK3n" value="indah" />
+          </node>
+          <node concept="boK5L" id="22o4WaGDoN" role="boK3m">
+            <property role="boK3X" value="checkin" />
+            <node concept="boK3U" id="22o4WaGDoO" role="boK0i">
+              <node concept="boK3V" id="22o4WaGDoP" role="boK3B">
                 <property role="boK3S" value="9" />
-                <property role="boK3T" value="0" />
+                <property role="boK3T" value="11" />
               </node>
-              <node concept="boK3V" id="4bKygdA8Yb" role="boK3$">
-                <property role="boK3S" value="11" />
-                <property role="boK3T" value="0" />
+              <node concept="boK3V" id="22o4WaGDoQ" role="boK3$">
+                <property role="boK3S" value="9" />
+                <property role="boK3T" value="30" />
               </node>
             </node>
           </node>
-          <node concept="boK5J" id="4bKygdA8Y3" role="boK3p">
-            <property role="boK3n" value="hotel rapo" />
-          </node>
-          <node concept="boK5L" id="4bKygdA8Y4" role="boK3m">
-            <property role="boK3X" value="kegiatan 2" />
-            <node concept="boK3U" id="4bKygdA8Y5" role="boK0i">
-              <node concept="boK3V" id="4bKygdA8Y6" role="boK3B">
-                <property role="boK3S" value="12" />
+          <node concept="boK5L" id="79ZTyCcdbL5" role="boK3m">
+            <property role="boK3X" value="swin" />
+            <node concept="boK3U" id="79ZTyCcdbL6" role="boK0i">
+              <node concept="boK3V" id="79ZTyCcdbL7" role="boK3B">
+                <property role="boK3S" value="10" />
                 <property role="boK3T" value="0" />
               </node>
-              <node concept="boK3V" id="4bKygdA8Y7" role="boK3$">
-                <property role="boK3S" value="13" />
-                <property role="boK3T" value="0" />
+              <node concept="boK3V" id="79ZTyCcdbL8" role="boK3$">
+                <property role="boK3S" value="10" />
+                <property role="boK3T" value="15" />
               </node>
             </node>
           </node>
         </node>
       </node>
-      <node concept="boK5C" id="5CPiTThmf37" role="boK25">
-        <node concept="boK5B" id="5CPiTThmf38" role="boK27">
-          <property role="boK2q" value="2024" />
-          <property role="boK2r" value="1" />
-          <property role="boK2o" value="20" />
+      <node concept="boK5C" id="22o4WaGDoR" role="boK25">
+        <node concept="boK5B" id="22o4WaGDoS" role="boK27">
+          <property role="boK2q" value="2000" />
+          <property role="boK2r" value="12" />
+          <property role="boK2o" value="11" />
         </node>
       </node>
-      <node concept="boK5A" id="5CPiTThmf39" role="boK22">
-        <node concept="boK5B" id="5CPiTThmf3a" role="boK24">
-          <property role="boK2q" value="2024" />
-          <property role="boK2r" value="3" />
-          <property role="boK2o" value="30" />
+      <node concept="boK5A" id="22o4WaGDoT" role="boK22">
+        <node concept="boK5B" id="22o4WaGDoU" role="boK24">
+          <property role="boK2q" value="2000" />
+          <property role="boK2r" value="12" />
+          <property role="boK2o" value="15" />
         </node>
       </node>
     </node>

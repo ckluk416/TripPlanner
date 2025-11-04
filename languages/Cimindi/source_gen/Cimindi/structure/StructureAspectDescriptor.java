@@ -34,6 +34,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
   @Override
   public void reportDependencies(jetbrains.mps.smodel.runtime.StructureAspectDescriptor.Dependencies deps) {
     deps.extendedLanguage(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, "jetbrains.mps.lang.core");
+    deps.extendedLanguage(0x4caf0310491e41f5L, 0x8a9b2006b3a94898L, "jetbrains.mps.execution.util");
   }
 
   @Override
@@ -126,6 +127,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("Cimindi", "Trip", 0x68f6fd5bc2434b37L, 0x9ae039f662e054eeL, 0x5a354b9e51564aeaL);
     b.class_(false, false, true);
     b.parent(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L);
+    b.parent(0x4caf0310491e41f5L, 0x8a9b2006b3a94898L, 0x40c1a7cb987d20d5L);
     b.origin("r:5db8c6dc-1bef-4e07-acd1-b3d6fc3befad(Cimindi.structure)/6500184780520704746");
     b.version(3);
     b.aggregate("detail", 0x5a354b9e51564becL).target(0x68f6fd5bc2434b37L, 0x9ae039f662e054eeL, 0x5a354b9e51564af4L).optional(false).ordered(true).multiple(false).origin("6500184780520705004").done();
